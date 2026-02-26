@@ -68,7 +68,7 @@ QA-инженер с фокусом на качестве продукта и п
 ---
 
 
-# 👩‍💻 Sergei Hechitailo 
+#  Sergei Nechitailo 
 
 **Junior / Middle QA Engineer**
 Manual & Automation Testing | Python | API | SQL | Web & Mobile
